@@ -38,11 +38,12 @@ header{
     text-decoration: none;
     margin: 1rem;
     color: inherit;
+    padding: 0 0.2rem;
 }
 
 .nav-links>a:hover{
     color: whitesmoke;
-    background-color: black;
+    background-color: rgb(94, 93, 93);
     border-radius: 0.2rem;
     padding: 0.2rem;
 }
